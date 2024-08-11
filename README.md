@@ -2,7 +2,7 @@
 
 # 🏨 # AtliQ-Hospitality-Business-Intelligence-Dashboard
 
-![Hospitality Dashboard](https://user-images.githubusercontent.com/XXXXX/hospitality-dashboard.png) <!-- Replace with your own image link -->
+![Hospitality Dashboard](https://github.com/Mayankgupta1803/AtliQ-Business-Intelligence-Dashboard/blob/9629a8886dbb1fd4b3400b4bdc4e7d362e3000ec/BG.png) <!-- Replace with your own image link -->
 
 ## 📊 Overview
 
