@@ -80,13 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any questions or feedback, please reach out:
 
-- **Email**: your.email@example.com
+- **Email**: mayankgup.731@gmail.com
 - **LinkedIn**: [Mayank Gupta](https://www.linkedin.com/in/mayankgupta18/)
 - **GitHub**: [@mayankgupta](https://github.com/Mayankgupta1803)
-
----
-
-### 📎 Additional Notes
-
-- Consider adding a section for **Future Enhancements** if you plan to expand the dashboard.
-- Include screenshots or a video demo in the README to make it more engaging.
